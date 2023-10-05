@@ -30,3 +30,4 @@ Nous avons vu les commandes Git suivantes :
 12. git branch -M <nom_actuel> <nouveau_nom> : renommer une branche
 13. git restore <file_name> : annuler les modifications apportées sur un fichier depuis le dernier commit
 14. git diff [<commit_number>] :
+15. git ls-files : affiche la liste des fichiers actuellement suivi par Git
